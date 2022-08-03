@@ -2,8 +2,6 @@ this is my newera project
 testing git pull
 testing something
 still testing 
-<<<<<<< HEAD
 adding one more file 
-=======
 adding more testing file 
->>>>>>> ec516f0 (adding a file)
+
